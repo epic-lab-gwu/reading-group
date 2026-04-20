@@ -27,5 +27,6 @@ This repository is for weekly reading group papers.
 ## Current paper
 
 - 2026-04-20: Zhentao Fan - [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
+- 2026-04-27: Zhentao Fan - [Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141)
 
 This repository is maintained by EPIC Lab members as a shared reading group archive.
