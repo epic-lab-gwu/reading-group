@@ -7,6 +7,7 @@ This repository is for weekly reading group papers.
 - Put papers under `papers/YYYY-MM-DD/`
 - Create a new folder for each meeting date
 - Upload the paper PDF(s) for that week into the matching folder
+- Add a `README.md` in the meeting folder for paper links and any presenter note
 - Use the file name format `presenter-shorttitle.pdf`
 
 ## Reading Group Guidelines
@@ -21,6 +22,7 @@ This repository is for weekly reading group papers.
 ## Example
 
 - `papers/2026-04-20/zhentaofan-vggt.pdf`
+- `papers/2026-04-20/README.md`
 
 ## Current paper
 
