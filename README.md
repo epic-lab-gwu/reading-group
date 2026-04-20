@@ -9,6 +9,15 @@ This repository is for weekly reading group papers.
 - Upload the paper PDF(s) for that week into the matching folder
 - Use the file name format `presenter-shorttitle.pdf`
 
+## Reading Group Guidelines
+
+- The presenter should upload the paper early enough for others to read it before the meeting.
+- Everyone is expected to read the paper in advance.
+- Everyone should come prepared with at least one question, comment, or discussion point.
+- The presenter should approach the presentation as if teaching the paper to the group.
+- The presentation should explain the motivation, main idea, method, results, and limitations clearly.
+- The presenter should help others understand why the paper matters and what questions remain open.
+
 ## Example
 
 - `papers/2026-04-20/zhentaofan-vggt.pdf`
