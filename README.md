@@ -28,5 +28,5 @@ This repository is for weekly reading group papers.
 
 - 2026-04-20: Zhentao Fan - [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
 - 2026-04-27: Zhentao Fan - [Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141)
-
+- 2026-10-21: Joseph Tian - [Catch It! Learning to Catch in Flight with Mobile Dexterous Hands](https://arxiv.org/pdf/2409.10319v1)
 This repository is maintained by EPIC Lab members as a shared reading group archive.
